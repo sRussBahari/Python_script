@@ -4,8 +4,8 @@ Creation of a python script to decrypt a public and private key and capture a fl
 ## Guidelines
 Our team intercepted some data in transit and got 2 files. One of these files is readable but the other one is very strange looking. Try to see if you can understand something from it and extract the information. The investigation team says it can be used to get the flag but I don't know how.
 
-File 1 (Strange looking file): https://docs.google.com/document/d/1Bb_RLeKWn6vPz5jE2ds8_UnMa8cApcOg8UZBnF8X7WA/edit?pli=1
-File 2 (Readable file): https://docs.google.com/document/d/1dQPL_SIKi-AwmrqH7JfuOqoWcl-Mpd941uf_HLhBuQo/edit?pli=1
+File 1 (Strange looking file): ![Strange_file](./Strange_file.png)
+File 2 (Readable file): ![Readable_file](./Readable_file.png)
 
 
 After researching and understanding the concept of public and private key for encryption and decryption and how a key is generated with each variable, it was easier to craft a script to decrypt the strange file that has hexadecimal value.
