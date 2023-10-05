@@ -130,6 +130,6 @@ I then used the hydra command to crack the password with the readable file that 
 ![nmap_target](./nmap_target.png)
 
 ![ftp_connection_to_target](./ftp_connection_to_target.png)
-
+![ftp_connection_to_target](./ftp_connection_to_target_1.png)
 ![ftp_connection_to_target](./ftp_connection_to_target_2.png)
 
